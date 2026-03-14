@@ -16,12 +16,8 @@
   background-repeat: no-repeat;
 }
 
-input::placeholder {
+.search-form__input::placeholder {
   font-weight: 300;
-  color: #3d4e61;
-}
-
-input::placeholder:hover {
   color: #3d4e61;
 }
 
